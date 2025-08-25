@@ -1,0 +1,49 @@
+{
+  "products": [
+    {
+      "id": "livro-001",
+      "title": "A Jornada do Herói",
+      "price": 45.50,
+      "compare_at_price": 59.90,
+      "category": "Ficção",
+      "image_url": "https://via.placeholder.com/250/A69A80/FFFFFF?text=Livro+01",
+      "stock": 15
+    },
+    {
+      "id": "livro-002",
+      "title": "O Mistério da Meia-Noite",
+      "price": 32.00,
+      "compare_at_price": null,
+      "category": "Suspense",
+      "image_url": "https://via.placeholder.com/250/2C3E50/FFFFFF?text=Livro+02",
+      "stock": 8
+    },
+    {
+      "id": "livro-003",
+      "title": "Culinária Simples",
+      "price": 65.00,
+      "compare_at_price": null,
+      "category": "Gastronomia",
+      "image_url": "https://via.placeholder.com/250/A0A0A0/FFFFFF?text=Livro+03",
+      "stock": 20
+    },
+    {
+      "id": "livro-004",
+      "title": "Código Limpo",
+      "price": 89.90,
+      "compare_at_price": 99.90,
+      "category": "Tecnologia",
+      "image_url": "https://via.placeholder.com/250/1ABC9C/FFFFFF?text=Livro+04",
+      "stock": 3
+    },
+    {
+      "id": "livro-005",
+      "title": "Poemas Esquecidos",
+      "price": 25.00,
+      "compare_at_price": null,
+      "category": "Poesia",
+      "image_url": "https://via.placeholder.com/250/9B59B6/FFFFFF?text=Livro+05",
+      "stock": 0
+    }
+  ]
+}
